@@ -62,6 +62,10 @@ body {
     margin: auto;
 }
 
+.activity-description {
+    max-width: 400px;
+}
+
 .icon {
     width: 100px;
     height:100px;
@@ -104,7 +108,7 @@ body {
 
 
 #sports-icon:hover {
-    background-image: url("images/basketball-hype.jpeg");
+    background-image: url("images/basketball-hype.jpg");
     background-position: center;
     background-size: 100px 
 }
